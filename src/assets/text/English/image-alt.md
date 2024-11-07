@@ -2,19 +2,15 @@
 language_code: "en"
 image_alt: [
     "",
-    "Zene, Zeanne, and their family at the beach",
-    "Zene and Zeanne finding trash at the beach",
-    "Zene and Zeanne meeting a pair of high school students named Mika and Jose helping out in the coral replant and coastal clean-up",
-    "Zeanne and Jose prepare for coastal clean-up while Zene and Mika gear up for coral replanting",
-    "Zene and Mika gear up for coral replanting",
-    "Zeanne and Jose prepare for coastal clean-up",
-    "Zeanne helping out Jose in coastal clean-up while Zene and Mika are replanting corals",
-    "Zene and Mika replanting corals",
-    "Zeanne helping out Jose in coastal clean-up",
-    "Zeanne and Jose investigating a polluted water source while Zene and Mika remove a plastic spork from a turtle",
-    "Zene and Mika remove a plastic spork from a turtle",
-    "Zeanne and Jose investigating a polluted water source",
-    "Zene and Zeanne giving a fist bump to each other for a job well done in saving the beach",
-    "Zene, Zeanne, Mika, and Jose meet a whale shark (butanding)"
+    "Zene, Zeanne, and their friends in a bus for a field trip",
+    "Zene and Zeanne looking at the NextGen Power Plant",
+    "Zene, Zeanne, and their friends wearing personal protective gear",
+    "Ilimee trying to touch a crab at the mangrove forest",
+    "Zene, Zeanne, and their friends attending a lecture on how natural gas power plants work",
+    "Zene, Zeanne, and their friends touring the power plant",
+    "Zene and Zeanne showing how a natural gas turbine works",
+    "Zene, Zeanne, and their friends at the power plant control room",
+    "Sir Sid explaining the other types of renewable energy",
+    "The NextGen Power Rangers drawn by Dani"
 ]
 ---

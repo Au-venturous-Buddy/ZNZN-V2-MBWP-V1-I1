@@ -1,10 +1,10 @@
 {
-  "name": "znzn-v2-mbwp-v2-i1",
+  "name": "znzn-v2-mbwp-v1-i1",
   "author": "Au-venturous Buddy <auventurous.buddy@gmail.com>",
   "main": "main.js",
   "build": {
-    "icon": "src/images/Au-Some Blogs.png",
-    "productName": "New Year, New Bora!",
+    "icon": "src/images/Zene N Zeanne V4 Logo Small.png",
+    "productName": "Zene and Zeanne Beat Energy Gap",
     "files": [
       "public/**/*",
       "main.js"
@@ -46,8 +46,8 @@
     }
   },
   "private": true,
-  "description": "Zeanne helps out in a beach clean-up while her twin brother Zene scuba-dived to help replant corals.",
-  "version": "2.2.1.0",
+  "description": "Zene, Zeanne, and their friends visit a power plant to see how it works.",
+  "version": "2.1.1.0",
   "license": "0BSD",
   "scripts": {
     "build": "gatsby build",

@@ -6,10 +6,10 @@
 
 module.exports = {
   siteMetadata: {
-    title: "New Year, New Bora!",
+    title: "Zene and Zeanne Beat Energy Gap",
     author: "Au-venturous Buddy"
   },
-  pathPrefix: "/ZNZN-V4-MBSA-V2-I1",
+  pathPrefix: "/ZNZN-V2-MBWP-V1-I1",
   plugins: [
     {
       resolve: `gatsby-source-filesystem`,
@@ -28,7 +28,7 @@ module.exports = {
       resolve: `gatsby-plugin-manifest`,
       options: {
         name: `New Year, New Bora!`,
-        short_name: `ZNZN-V2-MBWP-V2-I1`,
+        short_name: `ZNZN-V2-MBWP-V1-I1`,
         start_url: `/`,
         background_color: `#017BFF`,
         theme_color: `#017BFF`,
