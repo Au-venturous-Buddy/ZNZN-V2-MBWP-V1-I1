@@ -27,7 +27,7 @@ module.exports = {
     {
       resolve: `gatsby-plugin-manifest`,
       options: {
-        name: `New Year, New Bora!`,
+        name: `Zene and Zeanne Beat Energy Gap`,
         short_name: `ZNZN-V2-MBWP-V1-I1`,
         start_url: `/`,
         background_color: `#017BFF`,
